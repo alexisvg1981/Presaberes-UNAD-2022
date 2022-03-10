@@ -1,12 +1,11 @@
 
-
 body{
     background-Color:  gray;
     font-family: Arial;
 }
 
 
-.Etiquetas{  
+.main-contenedor{  
     margin: 150px auto;
     width: 600px;
 }
